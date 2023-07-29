@@ -1,0 +1,122 @@
+[
+    {
+        "model": "timeseries.structure",
+        "pk": 1,
+        "fields": {
+            "name": "1 Bedroom",
+            "csv_title": "1Bedroom.csv",
+            "key": "1bedroom",
+            "start_date": "2009-01-31",
+            "end_date": "2023-06-30",
+            "images": [
+                "https://images.unsplash.com/photo-1531576856932-f93f21defbc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwxfHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1515094193635-40722cc342b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwyfHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1469032923574-4f1413034019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwzfHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1615552269451-903ecf1f7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw0fHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1594563703937-fdc640497dcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw1fHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1597314040740-5836f612a030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw2fHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw3fHwxJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwN3ww&ixlib=rb-4.0.3&q=80&w=1080"
+            ]
+        }
+    },
+    {
+        "model": "timeseries.structure",
+        "pk": 2,
+        "fields": {
+            "name": "2 Bedroom",
+            "csv_title": "2Bedroom.csv",
+            "key": "2bedroom",
+            "start_date": "2009-01-31",
+            "end_date": "2023-06-30",
+            "images": [
+                "https://images.unsplash.com/photo-1469032923574-4f1413034019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwxfHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1535268244390-8b989b92d2bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwyfHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1595560006870-71deded44269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwzfHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1628736878056-4b7c73a8dde5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw0fHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1603872921293-6dd524662509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw1fHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1586945732228-39d3c8491235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw2fHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1639678349557-ffe5bed73ce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw3fHwyJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTMwOHww&ixlib=rb-4.0.3&q=80&w=1080"
+            ]
+        }
+    },
+    {
+        "model": "timeseries.structure",
+        "pk": 3,
+        "fields": {
+            "name": "3 Bedroom",
+            "csv_title": "3Bedroom.csv",
+            "key": "3bedroom",
+            "start_date": "2009-01-31",
+            "end_date": "2023-06-30",
+            "images": [
+                "https://images.unsplash.com/photo-1469032923574-4f1413034019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwxfHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1535268244390-8b989b92d2bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwyfHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1667403206415-0e51a54727d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwzfHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1594560913095-8cf34bab82ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw0fHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1669043962278-fcf15a3ba5a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw1fHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1676193360826-efb5a8dfbb8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw2fHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1667736416049-59e7ef421ca6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw3fHwzJTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1Mnww&ixlib=rb-4.0.3&q=80&w=1080"
+            ]
+        }
+    },
+    {
+        "model": "timeseries.structure",
+        "pk": 4,
+        "fields": {
+            "name": "4 Bedroom",
+            "csv_title": "4Bedroom.csv",
+            "key": "4bedroom",
+            "start_date": "2009-01-31",
+            "end_date": "2023-06-30",
+            "images": [
+                "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwxfHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1525498128493-380d1990a112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwyfHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1594113768745-aa11bdc68b47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwzfHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw0fHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1481277542470-605612bd2d61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw1fHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw2fHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw3fHw0JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080"
+            ]
+        }
+    },
+    {
+        "model": "timeseries.structure",
+        "pk": 5,
+        "fields": {
+            "name": "5 Bedroom",
+            "csv_title": "5Bedroom.csv",
+            "key": "5bedroom",
+            "start_date": "2009-01-31",
+            "end_date": "2023-06-30",
+            "images": [
+                "https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwxfHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1559508551-44bff1de756b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwyfHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1445991842772-097fea258e7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwzfHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw0fHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw1fHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw2fHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1680503146454-04ac81a63550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw3fHw1JTIwQmVkcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1M3ww&ixlib=rb-4.0.3&q=80&w=1080"
+            ]
+        }
+    },
+    {
+        "model": "timeseries.structure",
+        "pk": 6,
+        "fields": {
+            "name": "Condo",
+            "csv_title": "Condo.csv",
+            "key": "condo",
+            "start_date": "2009-03-31",
+            "end_date": "2023-06-30",
+            "images": [
+                "https://images.unsplash.com/photo-1611095210561-67f0832b1ca3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwxfHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1603382254452-30f9f44ad451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwyfHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1609766857326-18a204c2cf31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHwzfHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1613643044620-287b74606da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw0fHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1560185009-5bf9f2849488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw1fHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1560448205-17d3a46c84de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw2fHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+                "https://images.unsplash.com/photo-1594873604892-b599f847e859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0ODEwNzZ8MHwxfHNlYXJjaHw3fHxDb25kbyUyMGludGVyaW9yfGVufDB8fHx8MTY5MDQ5NTM1NHww&ixlib=rb-4.0.3&q=80&w=1080"
+            ]
+        }
+    }
+]

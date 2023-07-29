@@ -1,0 +1,12 @@
+db.sqlite3
+migrations
+venv
+staticfiles/*
+__pycache__
+.idea
+.venv
+.DS_Store
+dataVolume
+.env
+dataVolume2
+*.csv

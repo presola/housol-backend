@@ -1,0 +1,11 @@
+{
+  "name": "Django Python3 Sample",
+  "description": "A Simple Django app",
+  "repository": "https://github.com/presola/housol",
+  "logo": "https://housol.vercel.app",
+  "keywords": ["python3", "graphql", "django"],
+  "scripts": {
+    "release": "./init.sh",
+    "web": "gunicorn housol.wsgi:application --workers 4 --timeout 360"
+  }
+}
